@@ -38,7 +38,7 @@
       <div><h4>Contact</h4><ul>
         <li><a href="mailto:khanhhieutdh@gmail.com">khanhhieutdh@gmail.com</a></li>
         <li><a href="https://scholar.google.com/citations?user=rVbKC80AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a></li>
-        <li>Chungnam National University<br>Daejeon, Republic of Korea</li></ul></div>
+        <li>Ho Chi Minh City University of Technology (HCMUT)<br>VNU-HCM, Ho Chi Minh City, Vietnam</li></ul></div>
       </div><div class="copy">© ${new Date().getFullYear()} Intelligent Autonomous Systems Lab. All rights reserved.</div></div>`;
   }
 
